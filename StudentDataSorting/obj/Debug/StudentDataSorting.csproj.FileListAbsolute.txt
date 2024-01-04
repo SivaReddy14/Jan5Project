@@ -1,0 +1,7 @@
+D:\Jan5Project\StudentDataSorting\StudentDataSorting\bin\Debug\StudentDataSorting.exe.config
+D:\Jan5Project\StudentDataSorting\StudentDataSorting\bin\Debug\StudentDataSorting.exe
+D:\Jan5Project\StudentDataSorting\StudentDataSorting\bin\Debug\StudentDataSorting.pdb
+D:\Jan5Project\StudentDataSorting\StudentDataSorting\obj\Debug\StudentDataSorting.csproj.AssemblyReference.cache
+D:\Jan5Project\StudentDataSorting\StudentDataSorting\obj\Debug\StudentDataSorting.csproj.CoreCompileInputs.cache
+D:\Jan5Project\StudentDataSorting\StudentDataSorting\obj\Debug\StudentDataSorting.exe
+D:\Jan5Project\StudentDataSorting\StudentDataSorting\obj\Debug\StudentDataSorting.pdb
